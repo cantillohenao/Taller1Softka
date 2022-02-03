@@ -1,5 +1,9 @@
 package com.softka;
 
+import com.softka.domain.Fruit;
+
+import java.util.ArrayList;
+
 /**
  * Hello world!
  *
